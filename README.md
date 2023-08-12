@@ -10,8 +10,7 @@
 8) Trigers
 9) Indexes
 
-code examples:
----------------------------------------------------------------------------------
+### code examples:
 -- SQL tasks
 
 create view vw_ProductToys as
