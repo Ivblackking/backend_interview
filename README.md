@@ -9,9 +9,8 @@
 7) stored procedures
 8) Trigers
 9) Indexes
-
-### code examples:
--- SQL tasks
+    
+-- SQL tasks:
 
 create view vw_ProductToys as
 	select * from where ProducType = 'Toys'
