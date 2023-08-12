@@ -15,4 +15,4 @@
 1) Паттерни проектування
 2) MTT framework core
 3) ASP.NET Core (API)
-4) Midlle Ware (security/errors)
+4) Middle Ware (security/errors)
