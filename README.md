@@ -1,14 +1,15 @@
 # backend_interview
 ## sql questions
-1) Нормальні форми / нормалізація
-2) Денормалізація
-3) Кластерний індекс
-4) Транзакція
-5) ACID
-6) views
-7) stored procedures
-8) Trigers
-9) Indexes
+1) Види БД
+2) Нормальні форми / нормалізація
+3) Денормалізація
+4) Кластерний індекс
+5) Транзакція
+6) ACID
+7) views
+8) stored procedures
+9) Trigers
+10) Indexes
     
 -- SQL tasks:
 
